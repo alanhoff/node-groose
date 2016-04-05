@@ -1,0 +1,30 @@
+{
+  "name": "groose",
+  "version": "1.0.0",
+  "description": "NoSQL client for PostgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanhoff/node-groose.git"
+  },
+  "keywords": [
+    "nosql",
+    "postgre",
+    "postgres",
+    "postgresql",
+    "database",
+    "client",
+    "mongodb",
+    "mongo",
+    "mongoose"
+  ],
+  "author": "Alan Hoffmeister <alanhoffmeister@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanhoff/node-groose/issues"
+  },
+  "homepage": "https://github.com/alanhoff/node-groose#readme"
+}
